@@ -1,4 +1,4 @@
-![Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQE3IXtX4dAMlQ/profile-displaybackgroundimage-shrink_350_1400/0/1608772706507?e=1614211200&v=beta&t=SqGOVvYbgkXjoHYmCz6O_2WHhMjgIUWKZtLeILaiY5Q)
+![Full-Stack Web Developer](https://github.com/joshua-v-dev/joshua-v-dev/blob/main/Joshua%20Dev%20Banner%20-%20Twitter.png?raw=true)
 
 ### Hi there 👋, I'm Joshua Vaughn
 #### Full-Stack Web Developer
