@@ -1,18 +1,42 @@
 ![Full-Stack Web Developer](https://github.com/joshua-v-dev/joshua-v-dev/blob/main/Joshua%20Dev%20Banner%20-%20Twitter.png?raw=true)
 
-### Hi there 👋, I'm Joshua Vaughn
-#### Full-Stack Web Developer
+# Joshua Vaughn
 
-I'm Joshua, an extremely passionate self taught full stack javascript web developer. I am a firm believer in an "Everything is Javascript", and I have several interests in its implementations in all aspects of the business and development process these tools can provide.
+**Full-Stack Web Developer**
 
-Skills: REACT / REACT NATIVE / TYPESCRIPT / JS / HTML / CSS / GATSBY / MONGODB / GRAPHQL / EXPRESS / FIREBASE
+I build modern web applications with a focus on interactive UI, real-time 3D, and solid architecture. Most of my work lives in the TypeScript ecosystem, from Next.js frontends to Node.js backends and everything in between.
 
-- 🔭 I’m currently working on javascript based ecommerce, game and web app projects 
-- 🌱 I’m currently learning how to better use the React Native Expo SDK 40 release features 
-- 🤔 I’m looking for help with getting hired 
-- 📫 How to reach me: joshua.v.dev@gmail.com 
-- ⚡ Fun fact: I speak Spanish and English 
+---
 
+## Tech Stack
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joshua-v-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joshua-vaughn//)  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Three.js, Framer Motion
 
+**Backend:** Node.js, Express, tRPC, Prisma, Drizzle
+
+**Data:** MongoDB, PostgreSQL, Redis
+
+**Tools:** Vitest, Biome, Docker, Git
+
+---
+
+## Current Work
+
+- **Portfolio** -- personal site built with Next.js 14, Three.js, and Framer Motion ([repo](https://github.com/joshua-v-dev/portfolio))
+- **RevealUI** -- professional full-stack platform (private)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [portfolio](https://github.com/joshua-v-dev/portfolio) | Personal portfolio with 3D elements and page transitions | Next.js, TypeScript, Three.js, Framer Motion, Tailwind |
+
+---
+
+## Contact
+
+- **Email:** joshua.v.dev@gmail.com
+- **LinkedIn:** [joshua-vaughn](https://www.linkedin.com/in/joshua-vaughn)
+- **GitHub:** [joshua-v-dev](https://github.com/joshua-v-dev)
