@@ -35,6 +35,14 @@ I build modern web applications with a focus on interactive UI, real-time 3D, an
 
 ---
 
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-v-dev&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshua-v-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+---
+
 ## Contact
 
 - **Email:** joshua.v.dev@gmail.com
