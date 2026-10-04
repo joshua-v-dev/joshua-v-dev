@@ -23,7 +23,7 @@ I build modern web applications with a focus on interactive UI, real-time 3D, an
 ## Current Work
 
 - **Portfolio** -- personal site built with Next.js 14, Three.js, and Framer Motion ([repo](https://github.com/joshua-v-dev/portfolio))
-- **RevealUI** -- professional full-stack platform (private)
+- **RevealUI Studio** -- my professional projects and company work: [@RevealUIStudio](https://github.com/RevealUIStudio). Visit both profiles to explore my development history.
 
 ---
 
